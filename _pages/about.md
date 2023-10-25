@@ -7,10 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a PhD student pursuing a degree in [Environmental Science](https://environmentalscience.cales.arizona.edu/) at the University of Arizona. My research focuses on the identification and study of native plant species that accumulate and tolerate heavy metals. In my PhD program, I am collaborating with researchers from The French National Centre for Scientific Research (CNRS) at the intersection of phytoremediation and green chemistry. I also conduct research within the Center for Environmentally Sustainable Mining at the University of Arizona [(CESM)](https://cesm.arizona.edu/).
 
-I currently work as a Data Scientist III for the [BIO5 Institute](https://bio5.org/) at the University of Arizona. I work primarily on the [Cyverse](http://www.cyverse.org) project where my role is to expand the knowledge-base and accessibility of drone imagery tools while promoting the principles of open science. I develop aerial photography and machine learning processing pipelines on high computation cloud resources such [Jetstream2](https://jetstream-cloud.org/about/index.html). 
-
-I have been working in the GIS/Remote Sensing field since 2007 and began focusing on aerial photography collection and analysis in 2011. In this journey I've had the honor of working for multiple National Parks (Yellowstone, Petersburg National Battlefield), the USDA Agricultural Research Service, and a few universities (New Mexico State & Arizona). 
 
 <br/><img src='/images/GIF12.gif'>
 
