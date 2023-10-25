@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Eyu4lt4AAAAJ&hl=en&oi=ao"
   email            : "twlodarczyk@arizona.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  logo             : "/images/logo.png"
 
 # Reading Files
 include:
@@ -312,4 +312,4 @@ compress_html:
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "aqua"
-logo: "/images/logo.png"
+
