@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : "-"
-name                     : &name "Jeffrey Gillan"
+name                     : &name "Tomasz Wlodarczyk"
 description              : &description "personal description"
-url                      : https://jeffgillan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://trwlodarczyk.github.io/TW-Science/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeffgillan/jeffgillan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeffrey K Gillan, Ph.D."
-  avatar           : head_shot.png
-  bio              : "Data Scientist at BIO5 Institute at the University of Arizona"
+  name             : "Tomasz Wlodarczyk, MSc"
+  avatar           : TW-head_shot.png
+  bio              : "PhD Student in Environmental Science"
   location         : "Tucson, AZ, USA"
   employer         :
   pubmed           : 
