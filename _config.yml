@@ -190,6 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posts:
+    permalink: "/news/:year/:month/:day/:title/"
+    output: true
 
 
 # Defaults
