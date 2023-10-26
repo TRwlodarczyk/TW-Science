@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trust Science"
+title                    : 
 title_separator          : "-"
 name                     : &name "Tomasz Wlodarczyk"
 description              : &description "personal description"
@@ -116,6 +116,8 @@ author:
   youtube          :
   wikipedia        :
   logo             : "/images/logo.png"
+  theme            : minimal-mistakes-jekyll
+  minimal_mistakes_skin: "aqua"
 
 # Reading Files
 include:
@@ -311,6 +313,5 @@ compress_html:
   ignore:
     envs: development
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "aqua"
+
 
