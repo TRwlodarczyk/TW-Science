@@ -202,7 +202,7 @@ defaults:
       path: _posts
       type: posts
     values:
-      layout: news_item
+      layout: single
       author_profile: true
       read_time: true
       comments: true
