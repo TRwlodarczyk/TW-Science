@@ -9,11 +9,11 @@ main:
   - title: "Gallery"
     url: /gallery/     
     
-  - title: "Geospatial Art"
-    url: /geospatial_art/
+  - title: "Projects"
+    url: /projects/
         
-  - title: "Educational Resources"
-    url: /educational_resources/
+  - title: "Blog"
+    url: /blog/
 
   - title: "Maps & Data"
     url: /data/
