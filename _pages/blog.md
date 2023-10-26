@@ -1,6 +1,6 @@
 ---
-permalink: /educational_resources/
-title: "Educational Resources"
+permalink: /blog/
+title: "Blog"
 author_profile: true
 
 ---
