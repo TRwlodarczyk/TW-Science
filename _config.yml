@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Trust Science
+title                    : "Trust Science"
 title_separator          : "-"
 name                     : &name "Tomasz Wlodarczyk"
 description              : &description "personal description"
