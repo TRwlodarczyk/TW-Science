@@ -190,7 +190,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   posts:
-    permalink: "/:blog/:year/:month/:day/:title/"
+    permalink: "/blog/:year/:month/:day/:title/"
     output: true
 
 
@@ -198,7 +198,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/blog/"
       type: posts
     values:
       layout: single
