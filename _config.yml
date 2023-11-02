@@ -116,8 +116,7 @@ author:
   youtube          :
   wikipedia        :
   logo             : 
-  theme            : minimal-mistakes-jekyll
-  minimal_mistakes_skin: "aqua"
+
 
 # Reading Files
 include:
@@ -191,7 +190,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   posts:
-    permalink: "/blog/:year/:month/:day/:title/"
+    permalink: "/:blog/:year/:month/:day/:title/"
     output: true
 
 
