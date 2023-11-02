@@ -200,6 +200,7 @@ defaults:
   - scope:
       path: "/blog/"
       type: posts
+      paginate: 20
     values:
       layout: single
       author_profile: true
