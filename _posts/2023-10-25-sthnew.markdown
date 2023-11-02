@@ -1,7 +1,10 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "AGU Conference"
 layout: single
-path: /blog/
+permalink: /blog/
+author_profile: true
 ---
-# This is a newest test
-hey
+
+On Dec 11 - 15 I will be attending AGU conference in San Francisco. I will be presenting my poster titled "Quantifying Phytoextraction Efficiency of Native Plants at the Former Tailings Facility
+in Arizona". 
+
