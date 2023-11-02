@@ -19,8 +19,5 @@ I am a PhD student pursuing a degree in [Environmental Science](https://environm
 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=LtXuN2JGYAs" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=LtXuN2JGYAs
-
-
 
 ![git_1](images/TW1.png)
