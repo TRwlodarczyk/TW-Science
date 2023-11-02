@@ -14,6 +14,8 @@ I am a PhD student pursuing a degree in [Environmental Science](https://environm
 
 #<iframe width="1108" height="623" src="https://youtu.be/LtXuN2JGYAs?si=wEylteLjnZm5r6EU" title="Tomasz Wlodarczyk PhD Presentation - ENViSion 2nd place" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="1108" height="623" src="https://www.youtube.com/watch?v=43Gs5Jvfx4w&list=RD43Gs5Jvfx4w&start_radio=1" title="20230320 JGillan: Make Your Drone Imagery Open &amp; Cloud-Native" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=LtXuN2JGYAs" frameborder="0" allowfullscreen></iframe>
 
