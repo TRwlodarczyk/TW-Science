@@ -193,6 +193,11 @@ collections:
     permalink: "/blog/:year/:month/:day/:title/"
     output: true
 
+# Outputting
+permalink: /:blog/:year/:month/:day/:title/
+paginate: 20 # amount of posts to show
+paginate_path: /blog/page:num/ # change to /page:num/ if you want to use paginate posts on home
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Defaults
 defaults:
@@ -200,7 +205,6 @@ defaults:
   - scope:
       path: "/blog/"
       type: posts
-      paginate: 20
     values:
       layout: single
       author_profile: true
@@ -213,7 +217,6 @@ defaults:
   - scope:
       path: ""
       type: pages
-      paginate: 20
     values:
       layout: single
       author_profile: true
