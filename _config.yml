@@ -213,6 +213,7 @@ defaults:
   - scope:
       path: ""
       type: pages
+      paginate: 20
     values:
       layout: single
       author_profile: true
